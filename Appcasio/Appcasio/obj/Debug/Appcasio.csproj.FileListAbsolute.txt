@@ -1,0 +1,9 @@
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\bin\Debug\Appcasio.exe.config
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\bin\Debug\Appcasio.exe
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\bin\Debug\Appcasio.pdb
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\obj\Debug\Appcasio.csprojResolveAssemblyReference.cache
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\obj\Debug\Appcasio.Form1.resources
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\obj\Debug\Appcasio.Properties.Resources.resources
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\obj\Debug\Appcasio.csproj.GenerateResource.Cache
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\obj\Debug\Appcasio.exe
+c:\users\lab104pc6\documents\visual studio 2012\Projects\Appcasio\Appcasio\obj\Debug\Appcasio.pdb
